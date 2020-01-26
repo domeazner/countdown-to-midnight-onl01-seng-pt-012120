@@ -8,3 +8,4 @@ def countdown
     puts "#{nye_countdown} SECOND(S)!"
 end
 
+puts 
