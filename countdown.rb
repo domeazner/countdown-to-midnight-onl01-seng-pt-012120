@@ -3,5 +3,10 @@
 nye_countdown = 10
 
 def countdown
-until ny
+
+while nye_countdown > 0
+  nye_countdown -= 1
+  puts "#{nye_countdown} SECOND(S)!"
+
+  
 end
